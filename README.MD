@@ -1,7 +1,4 @@
 # Cinema Service
-
-<hr>
-
 ### About project
 This project is the server side of the cinema site, which allows you to add cinema halls, movies, movie sessions,
 users, shopping carts and assign it to users. There are two type of users in application: common user and administrator.
