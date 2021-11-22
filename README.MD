@@ -29,5 +29,7 @@ The administrator is able to add films, create movie shows, and register new cin
 <li>Clone the repository on GitHub</li>
 <li>Configure Tomcat</li>
 <li> Configure your database properties in ``main/resources/db.properties.`` </li>
-<li> Run application</li>
+<li> Run application. You can login as administrator or as common user using two preregistered profiles.
+"admin@com.ua" - email for administrator profile
+"user@com.ua" - for common user. Both profiles password are:"pass1234"</li>
 </ol>
