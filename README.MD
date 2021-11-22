@@ -31,7 +31,7 @@ Firstly you need to install following programs
 <li><a href="https://www.jetbrains.com/idea/"> IntelliJ IDEA</a></li>
 <li><a href="https://dev.mysql.com/downloads/installer/">MySQL</a></li>
 <li><a href="https://tomcat.apache.org/download-90.cgi">Tomcat</a></li>
-</ul>>
+</ul>
 <ol>
 <li>Clone the repository on GitHub</li>
 <li>Configure TomCat Local Server (Add New Configuration -> TomCat Server -> Local -> Fix -> cinema:war exploded -> set Application context to "/" -> OK).</li>
