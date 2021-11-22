@@ -31,7 +31,8 @@ users, shopping carts and assign it to users. There are two type of users in app
 <hr>
 
 ### How to run the app
-Firstly you need to install following programs
+Firstly you need to install next programs,
+and then follow the steps below
 <ul>
 <li><a href="https://www.jetbrains.com/idea/"> IntelliJ IDEA</a></li>
 <li><a href="https://dev.mysql.com/downloads/installer/">MySQL</a></li>
