@@ -9,7 +9,8 @@ Common user allowed to authenticate, view available movie sessions, add tickets 
 <li>POST: /shopping-carts/movie-sessions - user</li>
 <li>GET: /shopping-carts/by-user - user</li>
 
-The administrator is able to add films, create movie shows, and register new cinemas.
+
+#### The administrator is able to add films, create movie shows, and register new cinemas.
 <li>POST: /movie-sessions - admin</li>
 <li>PUT: /movie-sessions/{id} - admin</li>
 <li>DELETE: /movie-sessions/{id} - admin</li>
