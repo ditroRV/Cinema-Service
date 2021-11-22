@@ -28,9 +28,9 @@ users, shopping carts and assign it to users. There are two type of users in app
 ### How to run the app
 Firstly you need to install following programs
 <ul>
-<li><a href="https://www.jetbrains.com/idea/"> IntelliJ IDEA</a>></li>
-<li><a href="https://dev.mysql.com/downloads/installer/">MySQL</a>></li>
-<li><a href="https://tomcat.apache.org/download-90.cgi">Tomcat</a>></li>
+<li><a href="https://www.jetbrains.com/idea/"> IntelliJ IDEA</a></li>
+<li><a href="https://dev.mysql.com/downloads/installer/">MySQL</a></li>
+<li><a href="https://tomcat.apache.org/download-90.cgi">Tomcat</a></li>
 </ul>>
 <ol>
 <li>Clone the repository on GitHub</li>
